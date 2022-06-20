@@ -21,5 +21,3 @@ Danışmanlık verdiğim ve projelerinde yer aldığım önemli firmalar;
 https://www.linkedin.com/in/ercem-avci/
 
 https://www.instagram.com/ercem.avci/
-
-![counter](https://[YOUR_ENDPOINT].m.pipedream.net)
