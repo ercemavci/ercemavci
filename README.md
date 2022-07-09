@@ -8,7 +8,7 @@ Teknolojik gelişmeleri takip edebilecek düzeyde İngilizce bilen.
 
 Bunların Yanı Sıra;
 
-Kullandığım Teknolojiler: ReactJs, NodeJs, .Net, MSSQL, Figma, Git, MongoDB
+Kullandığım Teknolojiler: ReactJs, .Net Core, Git, MongoDB
 
 Danışmanlık verdiğim ve projelerinde yer aldığım önemli firmalar;
 
