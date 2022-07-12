@@ -5,10 +5,7 @@ MVC, ASP.NET WEB Forms ve WinForms bilen,
 MS SQL Server'da yazılım geliştirebilen,
 Çok katmanlı mimari ve nesne tabanlı uygulama geliştirmede deneyimli,
 Teknolojik gelişmeleri takip edebilecek düzeyde İngilizce bilen.
-
-Bunların Yanı Sıra;
-
-Kullandığım Teknolojiler: ReactJs, .Net Core, Git, MongoDB
+Kullandığım Diğer Teknolojiler: ReactJs, .Net Core, Git, MongoDB
 
 https://www.linkedin.com/in/ercem-avci/
 
