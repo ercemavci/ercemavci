@@ -10,14 +10,6 @@ Bunların Yanı Sıra;
 
 Kullandığım Teknolojiler: ReactJs, .Net Core, Git, MongoDB
 
-Danışmanlık verdiğim ve projelerinde yer aldığım önemli firmalar;
-
-- Otocarrental
-- Turassist
-- Alokaza
-- Bika Otomotiv
-- Enuygun.com
-
 https://www.linkedin.com/in/ercem-avci/
 
 https://www.instagram.com/ercem.avci/
